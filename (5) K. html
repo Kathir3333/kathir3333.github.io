@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ 
+  <title>Active & Passive Voice</title>
+</head>
+
+<body>
+  <h1 style="color: blue">Active to passive </h1>
+  <strong style="color: red">continuous tense </strong>
+ <p style="color: fuchsia">
+  <i>Active : I am drawing a picture.</i>
+  <br>
+  <b>passive : A picture is being drawn by me.</b>
+  <hr>
+  </p>
+  <p style="color: green">
+    <i>Active : The teacher was correcting answer papers. </i>
+  <br>
+  <b>Passive : Answer papers were being corrected by the teacher.</b>
+  <hr>
+  </p>
+  <p style="color: orange">
+    <i>Active : We are buying vegetables.</i>
+    <br>
+    <b>Passive : vegetables are being bought by us </b>
+  </p>
+ 
+ </p>
+</body>
+
+</html>
